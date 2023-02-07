@@ -1,3 +1,6 @@
+REM Batch file to clean and repair Windows.  Also removes temp files from common temp locations.
+REM Joshua Johnson 2/7/23
+
 @echo off
 :START
 set disk=false
